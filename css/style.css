@@ -1,0 +1,81 @@
+/* header */
+.heading-button{
+    margin: 0% 2%;
+
+}
+
+.button-text{
+    color: black;
+}
+.brand{
+    color: black;
+    font-family: poppins;
+    font-size: 1.5rem;
+    font-weight: bold; 
+    margin: 0% 20%;
+}
+.header{
+}
+/* body 1 */
+
+.header-image{
+width: 100%;
+height: 600px;
+}
+.intro{
+    margin: 2% 10%;
+    font-family: poppins;
+}
+
+.intro-paragraph{
+    font-family: poppins;
+    line-height: 35px;
+}
+
+.intro-image{
+    width: 50%;
+    height: 600px;
+    float: left;
+    margin: 30px;
+}
+.whatwedo{
+    margin: 5%;
+    text-align: center;
+}
+
+/* middle section */
+.whatwedoimage{
+    width: 50%;
+    height: 400px;
+    margin: 30px;
+
+}
+.no-bullets{
+    list-style-type: none;
+    float: left;
+    line-height: 50px;
+    font-family: poppins;
+    margin-right: 10%;
+}
+.centered{
+    font-size: 3.5rem;
+    font-family: poppins;
+    color:#fff;
+    text-align: center;
+    position: absolute;
+    top:30%;
+    left: 30%;
+    z-index: 1;
+}
+
+.readmore{
+    font-size: 3.5rem;
+    font-family: poppins;
+    color:#fff;
+    text-align: center;
+    position: absolute;
+    top:50%;
+    left: 45%;
+    z-index: 1;
+
+}
