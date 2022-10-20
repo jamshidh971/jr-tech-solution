@@ -39,7 +39,7 @@ height: 600px;
     margin: 30px;
 }
 .whatwedo{
-    margin: 5%;
+    margin-top: 15rem;
     text-align: center;
 }
 
@@ -78,4 +78,8 @@ height: 600px;
     left: 45%;
     z-index: 1;
 
+}
+
+.class{
+    float: left;
 }
